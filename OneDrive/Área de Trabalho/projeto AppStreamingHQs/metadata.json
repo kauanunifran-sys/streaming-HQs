@@ -1,0 +1,6 @@
+{
+  "name": "HQ Stream",
+  "description": "Premium comic book reader application with high-fidelity views including Home Dashboard, Detail Pages, Interactive Reader, and User Registration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
