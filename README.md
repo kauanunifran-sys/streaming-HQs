@@ -76,6 +76,6 @@ Este projeto está sob a licença [PREENCHER: ex.: MIT]. Consulte o arquivo LICE
 
 Se as HQs disponibilizadas no app têm direitos autorais, garanta que você tenha autorização para distribuí-las ou use apenas conteúdo de domínio público ou autoral próprio.
 
-👤 Autor
+👤 Autores
 
-Kauan GitHub: @kauanunifran-sys
+Kauan and caio melo
